@@ -10,5 +10,6 @@ L'objectif de ce tp est de mettre en place une liste d'appareils domotiques qui 
 - le bouton "ALL ON" permet de tout allumer
 - le bouton "ALL OFF" permet de tout éteindre
 - les boutons "trash" permettent de supprimer l'appareil en question
+
 Le tout doit être stocké dans le local storage
 
