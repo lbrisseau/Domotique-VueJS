@@ -1,4 +1,4 @@
-﻿# view-tp2
+﻿# VueJS TP2
 
 https://lbrisseau.github.io/vuejs-tp2-domotique/
 
