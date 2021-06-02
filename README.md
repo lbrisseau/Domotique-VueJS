@@ -1,4 +1,4 @@
-﻿# VueJS TP2
+﻿# VueJS Gestion liste d'appareils domotiques
 
 https://lbrisseau.github.io/vuejs-tp2-domotique/
 
